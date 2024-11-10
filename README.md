@@ -25,8 +25,11 @@ Estilo clean e moderno, focado em experiência de usuário.
 
 /landing-page
 │
+
 ├── index.html           # Arquivo HTML principal
+
 ├── style.css            # Arquivo CSS com os estilos
+
 └── README.md            # Este arquivo de documentação
 
 📝 Personalização
