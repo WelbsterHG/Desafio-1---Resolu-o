@@ -1,5 +1,5 @@
 # Desafio 1 - Resolução
-Link do site disponibilizado: 
+Link do site disponibilizado: https://desaf-landingpage.netlify.app
 
 Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1T9FPAphaWxFNU4h5sBdXzQMGW6a-cy63ft1G0RghMRs/edit?gid=0#gid=0
 
