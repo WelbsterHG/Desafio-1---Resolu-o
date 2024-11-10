@@ -31,6 +31,12 @@ Estilo clean e moderno, focado em experiência de usuário.
 
 📝 Personalização
 Cores: As cores da página podem ser modificadas no arquivo style.css. Encontre as variáveis de cor no topo do arquivo e ajuste conforme necessário.
+
 Fontes: Fontes podem ser alteradas no mesmo arquivo style.css na seção de fontes.
+
 Conteúdo: O conteúdo textual da página pode ser modificado diretamente no arquivo index.html
+
+🤝 Contribuições
+
+Se você deseja contribuir para este projeto, fique à vontade para abrir uma issue ou enviar um pull request com melhorias, correções ou novas funcionalidades.
 
