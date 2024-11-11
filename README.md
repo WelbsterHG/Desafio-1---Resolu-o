@@ -33,6 +33,7 @@ Estilo clean e moderno, focado em experiência de usuário.
 └── README.md            # Este arquivo de documentação
 
 📝 Personalização
+
 Cores: As cores da página podem ser modificadas no arquivo style.css. Encontre as variáveis de cor no topo do arquivo e ajuste conforme necessário.
 
 Fontes: Fontes podem ser alteradas no mesmo arquivo style.css na seção de fontes.
